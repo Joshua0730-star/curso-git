@@ -1,5 +1,3 @@
-f - version 
+escribiendo texto en el archivo por segunda vez para poder  hacer cambios bacanos
 
 
-
----> agregando mas texto desde la rama develop para que este  archivo se vea mucho mas bonito
