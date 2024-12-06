@@ -1,7 +1,9 @@
 let user = {
   name: 'joshua',
-  age: 17
+  age: 17,
+  hobbies: ['coding', 'reading', 'sleeping'],
 }
 
+const { hobbies } = user;
 
-console.log(user);
+console.log(hobbies);
